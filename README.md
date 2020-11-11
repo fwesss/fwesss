@@ -44,5 +44,5 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/westley-feller/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Westley%20Feller-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:feller.westley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-feller.westley@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/westley-feller/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Westley%20Feller-2e3440?style=flat-square&logo=linkedin"></a>
+<a href="mailto:feller.westley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-feller.westley@gmail.com-2e3440?style=flat-square&logo=gmail"></a>
