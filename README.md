@@ -3,8 +3,8 @@
 <h3> 😀💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and building cool stuff.
-- 🎓 &nbsp; Studying Web Development and Computer Science at Lambda School.
 - 💼 &nbsp; Working as a Support Engineer at Fig.
+- 🎓 &nbsp; Studied Web Development and Computer Science at Lambda School.
 - 🌱 &nbsp; Learning more about Functional Programming, Haskell, and Blockchain
 - 🧗‍ &nbsp; Avid rock climber, hiker, backpacker, mountain biker, and musician.
 
