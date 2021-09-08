@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and building cool stuff.
 - 🎓 &nbsp; Studying Web Development and Computer Science at Lambda School.
-- 💼 &nbsp; Working as a Business Development Manager at Mountain West Financial, Inc.
+- 💼 &nbsp; Working as a Support Engineer at Fig.
 - 🌱 &nbsp; Learning more about Functional Programming, Haskell, and Blockchain
 - 🧗‍ &nbsp; Avid rock climber, hiker, backpacker, mountain biker, and musician.
 
