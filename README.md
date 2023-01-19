@@ -33,15 +33,6 @@
 - 🔧 &nbsp;
   ![Emacs](https://img.shields.io/badge/-Emacs-2e3440?style=flat-square&logo=emacs)
 
-<br/>
-
-<a href="https://github.com/fwesss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fwesss&theme=nord&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwesss&theme=nord&layout=compact&hide=jupyter%20notebook" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/westley-feller/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Westley%20Feller-2e3440?style=flat-square&logo=linkedin"></a>
