@@ -6,7 +6,7 @@ Building @ [CommandBar](https://www.commandbar.com)
 [Come join us!](https://www.commandbar.com/careers) 
 
 - 🤔 &nbsp; Exploring new technologies and building cool stuff.
-- 💼 &nbsp; Working as a Solution Architect at CommandBar.
+- 💼 &nbsp; Working as a Software Developer at CommandBar.
 - 🎓 &nbsp; Studied Web Development and Computer Science at Lambda School.
 - 🌱 &nbsp; Learning more about Functional Programming, Haskell, and Blockchain
 - 🧗‍ &nbsp; Avid rock climber, hiker, backpacker, mountain biker, and musician.
