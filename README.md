@@ -8,7 +8,7 @@ Building @ [CommandBar](https://www.commandbar.com)
 - 🤔 &nbsp; Exploring new technologies and building cool stuff.
 - 💼 &nbsp; Working as a Software Developer at CommandBar.
 - 🎓 &nbsp; Studied Web Development and Computer Science at Lambda School.
-- 🌱 &nbsp; Learning more about Functional Programming, Haskell, and Blockchain
+- 🌱 &nbsp; Learning more about Functional Programming, Haskell.
 - 🧗‍ &nbsp; Avid rock climber, hiker, backpacker, mountain biker, and musician.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
